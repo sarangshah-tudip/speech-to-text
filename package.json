@@ -1,0 +1,26 @@
+{
+  "name": "nodespeechtotext",
+  "version": "1.0.0",
+  "description": "Node module to convert speech to text using google services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarangshah-tudip/speech-to-text.git"
+  },
+  "keywords": [
+    "speech-to-text"
+  ],
+  "author": "Sarang Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarangshah-tudip/speech-to-text/issues"
+  },
+  "homepage": "https://github.com/sarangshah-tudip/speech-to-text#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^3.2.1",
+    "node-record-lpcm16": "^0.3.1"
+  }
+}
