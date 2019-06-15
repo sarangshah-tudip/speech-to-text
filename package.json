@@ -1,5 +1,5 @@
 {
-  "name": "nodespeechtotext",
+  "name": "node-speech-to-text",
   "version": "1.0.0",
   "description": "Node module to convert speech to text using google services",
   "main": "index.js",
